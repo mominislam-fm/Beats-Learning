@@ -1,0 +1,54 @@
+/*  Navigation Area Start */
+.header {
+
+   display: flex;
+}
+
+img.header-logo {
+    margin-left: 102px;
+}
+.nav-section{
+   
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 50px;
+}
+.singup-section{
+    margin-top: 40px;
+   
+}
+
+a.nav {
+    text-decoration: none;
+    margin-left: 25px;
+    font-family: Poppins;
+    font-size: 17px;
+    font-weight: 600;
+    color: #000000;
+    letter-spacing: 0.02rem;
+}
+
+a.sing-in {
+    text-decoration: none;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    color: #000000;
+    margin-right: 65px;
+}
+button.heder-btn {
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 500;
+    border: none;
+    background: #54B8FF;
+    color: #FFFFFF;
+    margin-right: 34px;
+    padding: 10px;
+    border-radius: 10px;
+    width: 96px;
+    height: 39px;
+    cursor: pointer;
+}
+/*  Navigation Area End */
